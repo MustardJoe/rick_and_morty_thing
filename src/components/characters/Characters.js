@@ -19,7 +19,7 @@ function Characters({ characters }) {
   );
 }
 
-Character.propTypes = {
+Characters.propTypes = {
   characters: PropTypes.array.isRequired,
 };
 

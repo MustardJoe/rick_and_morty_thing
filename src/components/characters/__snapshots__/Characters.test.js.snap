@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Characters component test renders the Characters comp 1`] = `
+<ul
+  className="Characters"
+>
+  <li
+    key="0"
+  >
+    <Character
+      character={
+        Object {
+          "image": "/image",
+          "name": "morthy",
+          "species": "five dead",
+          "status": "dead",
+        }
+      }
+    />
+  </li>
+  <li
+    key="1"
+  >
+    <Character
+      character={
+        Object {
+          "image": "/fivepics",
+          "name": "barnman the bat barn man",
+          "species": "the regular",
+          "status": "berry much alive",
+        }
+      }
+    />
+  </li>
+</ul>
+`;
