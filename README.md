@@ -1,0 +1,1 @@
+remember, this is a front end app that uses npm stuff, so don't use "live server" to serve it, must run "npm run start" and then open browser on port specified in webpack.config  (7890)
